@@ -76,6 +76,11 @@ target/
 # vscode files
 .vscode/
 
+# asset misc
+node_modules/
+static/css/
+static/js/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 

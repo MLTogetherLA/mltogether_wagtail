@@ -1,0 +1,34 @@
+{
+  "name": "mltogether_wagtail",
+  "version": "1.0.0",
+  "description": "Source for producing static assets for MLTogether's CMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MLTogetherLA/mltogether_wagtail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MLTogetherLA/mltogether_wagtail/issues"
+  },
+  "homepage": "https://github.com/MLTogetherLA/mltogether_wagtail#readme",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.10.2",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-concat": "^2.6.1",
+    "gulp-csscomb": "latest",
+    "gulp-minify": "^3.1.0",
+    "gulp-pug": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "jstransformer-highlight": "latest",
+    "jstransformer-markdown-it": "latest",
+    "spectre.css": "^0.5.8"
+  }
+}
